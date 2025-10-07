@@ -1,0 +1,23 @@
+.sprite{
+    background-image: url("sprite.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.icono1{
+    width: 200px;
+    height: 501px;
+    background-position: 0 0;
+}
+
+.icono2{
+    width: 200px;
+    height: 512px;
+    background-position: -211px 0;
+}
+
+.icono3{
+    width: 640px;
+    height: 512px;
+    background-position: -395px 0;
+}
